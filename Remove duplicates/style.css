@@ -1,0 +1,25 @@
+h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  ul {
+    font-size: 1.2em;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  button {
+    font-size: 1.2em;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
