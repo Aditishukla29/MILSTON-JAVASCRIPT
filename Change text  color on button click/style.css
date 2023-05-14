@@ -1,0 +1,20 @@
+.display{
+    display: flex;
+    height: 100vh;
+}
+.text{
+    margin: auto;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#btn{
+    padding: 2vh 2vw;
+    margin: auto;
+    display: flex;
+    margin-top: -280px;
+    font-weight: 600;
+    background: green;
+     color: white;
+     cursor: pointer;
+}

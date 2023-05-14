@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    background-color: blue;
+  }
+  
+  body{
+    display: flex;
+    height: 100vh;
+  }
+  
+  .parent-box{
+    position: relative;
+    display: flex;
+    margin: auto;
+    width: 20%;
+  }
+  
+  img[alt="image"]{
+    margin: auto;
+    width: 100%;
+    position: absolute;
+  }
