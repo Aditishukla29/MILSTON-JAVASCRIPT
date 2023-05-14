@@ -1,0 +1,39 @@
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+form{
+    border: 1px solid black;
+    width: fix-content;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: auto;
+    padding: 5vh 2vw;
+    background-image: conic-gradient(
+     #7dff8e,
+      #3b3ba0,
+      #ffe21a,
+      #ff6eb5,
+      #aa77ff,
+      #ff5228,
+      #7dff8e
+    );
+     
+    
+}
+
+input{
+    /* padding: 0 2vw; */
+    width: 100%;
+}
+
+.submit{
+    margin: auto;
+    margin-top: 10px;
+    width: fix-content;
+    padding: 1vh 1vw;
+    background-color: green;
+}
